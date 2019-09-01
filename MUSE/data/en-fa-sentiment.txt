@@ -90,8 +90,6 @@ rightly	خوبیا
 rightly	خوبش
 rightly	خوش
 rightly	خوشی
-	دستشویی
-	توالت
 nice	ادب
 nice	مودب
 nice	مودبانه
@@ -137,14 +135,6 @@ joyful	خوش
 joyful	خوشی
 gleeful	شاد
 gleeful	خوشحال
-gay	خوب
-gay	خوبی
-gay	بخوبی
-gay	خوبا
-gay	خوبیا
-gay	خوبش
-gay	خوش
-gay	خوشی
 merry	شاد
 merry	خوشحال
 exhilarated	خوب
