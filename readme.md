@@ -6,7 +6,7 @@
 - English Labeled Data: (700k) [Link](https://www.dropbox.com/sh/zlnjcrc6l9zlry4/AAApYaSz9PvESc5xMiAKD_Jka?dl=0)
 - Persian Sentiment Words: [Link](https://github.com/piwvh/clsa-persian/blob/master/MUSE/data/en-fa-sentiment.txt)
 
-### Accuracy
+### Accuracy (five-class confusion matrix)
 - DAN: 44.12%
 - CNN: 46.79%
 - Bi-LSTM: 46.92%
